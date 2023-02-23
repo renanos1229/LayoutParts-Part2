@@ -126,6 +126,10 @@
   z-index: 1;
 }
 
+card-item p{
+  margin-top: 20px;
+}
+
 .icon {
   background: url(https://picsum.photos/id/1005/200/300) no-repeat center/cover;
   width:  150px;
